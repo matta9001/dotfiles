@@ -1,0 +1,71 @@
+[DownloadDialog Settings]
+Height 1080=517
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=wtdms_notext.png,file:$HOME/Media/Pictures/nyc_snowy.jpg,file:$HOME/Media/Pictures/vengeancefalls.jpg,file:$HOME/Media/Pictures/e2KNAy.jpg,file:$HOME/Media/Pictures/wtdms_notext.png
+Recent URLs[$e]=file:$HOME/Media/Pictures/,file:$HOME/
+detailViewIconSize=0
+
+[KPropertiesDialog]
+Height 1080=451
+Width 1920=410
+
+[PlasmaRunnerManager]
+LaunchCounts=2 services_applications:emacs.desktop,4 services_applications:spotify.desktop,2 services_applications:Zoom.desktop,1 baloosearch_/home/matt/android-studio/pkg/android-studio/opt/android-studio/plugins/android/lib/templates/fragments/GoogleAdMobAdsFragment/root/src/app_package/AdMobBannerAdFragment.java.ftl,1 services_applications:kcm_desktoptheme.desktop,7 services_applications:android-studio.desktop,1 services_applications:org.kde.discover.desktop,1 services_applications:discord.desktop,4 services_applications:joplin.desktop,3 services_applications:kcm_kwin_effects.desktop,1 services_applications:piavpn.desktop,1 services_applications:org.kde.spectacle.desktop,2 services_applications:firefox.desktop
+
+[PlasmaViews][Panel 24][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 24][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 3][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 3][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 44][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 44][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 46][Defaults]
+thickness=30
+
+[PlasmaViews][Panel 46][Horizontal1920]
+thickness=30
+
+[PlasmaViews][Panel 67][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 67][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 68][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 68][Vertical1080]
+thickness=36
+
+[PlasmaViews][Panel 88][Defaults]
+thickness=36
+
+[PlasmaViews][Panel 88][Horizontal1920]
+thickness=36
+
+[PlasmaViews][Panel 89][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 89][Horizontal1920]
+thickness=27
+
+[ScreenConnectors]
+0=HDMI-1
+1=:0.0
+2=eDP-1
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js

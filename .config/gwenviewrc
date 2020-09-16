@@ -1,0 +1,15 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+Height 1080=480
+State=AAAA/wAAAAD9AAAAAAAAAvgAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=760
+
+[Recent Files]
+File1[$e]=$HOME/Media/Pictures/wtdms-1080p.jpg
+Name1[$e]=wtdms-1080p.jpg
+
+[SideBar]
+SideBarSplitterSizes=242,515

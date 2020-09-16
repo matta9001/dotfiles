@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/matt/.config'
+let g:netrw_dirhist_5='/home/matt/.kde4/share/config'
+let g:netrw_dirhist_4='/home/matt/.config/i3'
+let g:netrw_dirhist_3='/home/matt/.config'
+let g:netrw_dirhist_2='/home/matt'
+let g:netrw_dirhist_1='/home/matt/.config'
+let g:netrw_dirhist_0='/home/matt/.config/i3'
+let g:netrw_dirhist_9='/home/matt/.config'
+let g:netrw_dirhist_8='/home/matt'
+let g:netrw_dirhist_7='/home/matt/.config'

@@ -1,0 +1,11 @@
+[General]
+Theme=themes/mummies_crypt.desktop
+
+[KgDifficulty]
+Level=Medium
+
+[MainWindow]
+HDMI-1 XPosition=1029
+HDMI-1 YPosition=219
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGeAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled

@@ -1,0 +1,16 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+HDMI-1 Window-Maximized 1080x1920=true
+HDMI-1 XPosition=0
+HDMI-1 YPosition=30
+Height 1080=1030
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAACAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAAgAAAAEAAAAiAGEAbgBuAG8AdABhAHQAaQBvAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=465
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/School/CS487/CS487_Handout4_Matthew_Anderson.pdf
+Name1[$e]=CS487_Handout4_Matthew_Anderson.pdf

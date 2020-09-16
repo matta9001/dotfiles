@@ -1,0 +1,19 @@
+[MainWindow]
+HDMI-1 Height 1080=601
+HDMI-1 Width 1920=420
+HDMI-1 XPosition=1120
+HDMI-1 YPosition=246
+State=AAAA/wAAAAD9AAAAAAAAAaQAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[New Game Dialog Mode]
+0Player 1=#0000ff
+competition=false
+course=/usr/share/kolf/courses/Classic.kolf
+extra=
+
+[Settings]
+showGuideLine=true
+showInfo=true
+sound=true
+useMouse=true

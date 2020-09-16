@@ -1,0 +1,13 @@
+[MainWindow]
+HDMI-1 XPosition=349
+HDMI-1 YPosition=444
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAGcAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+StatusBar=Disabled
+ToolBarsMovable=Disabled
+splitterSizes=426,213
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/5_WithBundleSave(1).zip
+File2[$e]=$HOME/School/CS442/AndroidStudioProjects.zip
+Name1[$e]=5_WithBundleSave(1).zip
+Name2[$e]=AndroidStudioProjects.zip

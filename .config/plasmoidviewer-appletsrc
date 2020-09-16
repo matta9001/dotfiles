@@ -1,0 +1,13 @@
+[Containments][1]
+ItemGeometriesVertical=Applet-2:0,0,272,272,0;
+activityId=
+formfactor=0
+immutability=1
+lastScreen=0
+location=0
+plugin=org.kde.desktopcontainment
+wallpaperplugin=org.kde.image
+
+[Containments][1][Applets][2]
+immutability=1
+plugin=org.kde.plasma.analogclock
